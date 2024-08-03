@@ -299,28 +299,28 @@ export const dataTestimonials = [
         id: 2,
         name: "Luis Serna",
         description:
-            "Me encanta la variedad de testimonios disponibles en esta página. Es inspirador ver cómo otras personas han superado desafíos similares a los míos. ¡Gracias por esta invaluable fuente de motivación!",
+            "",
         imageUrl: "/profile2.png",
     },
     {
         id: 3,
         name: "Daniel Capera",
         description:
-            "Excelente recurso para obtener opiniones auténticas sobre diferentes productos y servicios. Me ha ayudado mucho en mis compras en línea. ¡Bravo por este sitio!",
+            "Una persona que fomenta el gran ambiente, le encantan los videojuegos y le gusta ayudar a los demás",
         imageUrl: "/profile3.png",
     },
     {
         id: 4,
         name: "Henry Castro",
         description:
-            "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
+            "",
         imageUrl: "/profile4.png",
     },
     {
         id: 5,
         name: "Yan Carlos Cortes",
         description:
-            "Una joya en la web. Los testimonios son fáciles de encontrar y están bien organizados. ¡Definitivamente mi destino número uno cuando necesito referencias confiables!",
+            "",
         imageUrl: "/profile5.png",
     }
 ];
