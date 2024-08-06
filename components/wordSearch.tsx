@@ -9,8 +9,7 @@ const words = [
     'FARC',
     'GOBIERNO',
     'ACUERDO',
-    'VOTACION',
-    'CONFLICTO'
+    'VOTACION'
 ];
 
 const grid = [
