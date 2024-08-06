@@ -299,7 +299,7 @@ export const dataTestimonials = [
         id: 2,
         name: "Luis Serna",
         description:
-            "",
+            "Cristiano, amante de la tecnología y los videojuegos",
         imageUrl: "/profile2.png",
     },
     {
@@ -313,14 +313,14 @@ export const dataTestimonials = [
         id: 4,
         name: "Henry Castro",
         description:
-            "",
+            "Analista Desarrollador Middle",
         imageUrl: "/profile4.png",
     },
     {
         id: 5,
         name: "Yan Carlos Cortes",
         description:
-            "",
+            "Analista y Desarrollador Business Intelligence, ¡Busca Trabajo!",
         imageUrl: "/profile5.png",
     }
 ];
