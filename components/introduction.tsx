@@ -41,7 +41,7 @@ const Introduction = () => {
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
                         Con la presentación queremos Proveer una comprensión completa del plebiscito en Colombia, cubriendo su contexto histórico, desarrollo, resultados, reacciones y lecciones aprendidas..
                     </p>
-                    <iframe width="280" height="170" src="https://www.youtube.com/embed/iW0xz7nYSc0?si=gaSf3kRCFcYF187i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="280" height="170" src="https://www.youtube.com/embed/iW0xz7nYSc0?si=gaSf3kRCFcYF187i" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
                     
 
                     <div className="flex items-center p-20 justify-center gap-3 md:justify-start md:gap-10">
