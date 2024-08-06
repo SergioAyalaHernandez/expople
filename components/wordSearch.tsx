@@ -11,9 +11,7 @@ const words = [
     'ACUERDO',
     'VOTACION',
     'CONFLICTO',
-    'NEGOCIACION',
-    'RESULTADOS',
-    'RECONCILIACION'
+    'RESULTADOS'
 ];
 
 const grid = [
